@@ -1,9 +1,7 @@
 # Java_SE_21_Developer_Professional
 Preparatory for Exam Number: 1Z0-830
 
-Additional Resources:  https://docs.oracle.com/javase/tutorial/java/index.html (Based on Java 8).
-
-                        https://www.geeksforgeeks.org/java/java-programming-basics/
+Additional Resources:  https://docs.oracle.com/javase/tutorial/java/index.html (Based on Java 8).  https://www.geeksforgeeks.org/java/java-programming-basics/  
                         
 
 Latest Version:        https://dev.java/ (Based on Java 25).
