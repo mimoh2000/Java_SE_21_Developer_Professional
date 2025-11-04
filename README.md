@@ -1,7 +1,8 @@
 # Java_SE_21_Developer_Professional
 Preparatory for Exam Number: 1Z0-830
 
-Additional resources:  https://docs.oracle.com/javase/tutorial/java/index.html
+Additional Resources:  https://docs.oracle.com/javase/tutorial/java/index.html
+Latest Version:        https://dev.java/
 
 Save the folder to your C:\ directory
 Opem windows command prompt - cmd
