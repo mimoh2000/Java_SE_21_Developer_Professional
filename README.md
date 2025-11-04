@@ -3,6 +3,9 @@ Preparatory for Exam Number: 1Z0-830
 
 Additional Resources:  https://docs.oracle.com/javase/tutorial/java/index.html (Based on Java 8).
 
+                        https://www.geeksforgeeks.org/java/java-programming-basics/
+                        
+
 Latest Version:        https://dev.java/ (Based on Java 25).
 
 JDK 21 Documentation:  https://docs.oracle.com/en/java/javase/21/related-resources.html
