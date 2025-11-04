@@ -5,6 +5,8 @@ Additional Resources:  https://docs.oracle.com/javase/tutorial/java/index.html (
 
 Latest Version:        https://dev.java/ (Based on Java 25).
 
+JDK 21 Documentation:  https://docs.oracle.com/en/java/javase/21/related-resources.html
+
 
 Save the folder to your C:\ directory
 
