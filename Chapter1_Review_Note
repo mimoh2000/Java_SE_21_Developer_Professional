@@ -1,0 +1,92 @@
+					Chapter 1 Revision Note
+
+1. Java Environment:
+
+	a. Tools
+		1. javac - Java Compiler (compile source codes (.java) 
+		to bytecode (.class))
+		
+			eg. javac MyClass.java
+			
+		2. java  - Run the bytecode via the Java Virtual Mechine (JVM)
+		
+			eg	java MyClass
+			
+		3. javadoc - Generates formatted HTML documentations using tags.
+		
+			eg.	javadoc -d docs -keywords -author -version MyClass.java
+			
+		4. jar - for files packaging more like zip files.
+		
+			eg. jar cf JarName.jar MyClass.class audio images
+			
+			generates MyJarName.jar containing the MyClass.class, audio,
+			images files in a compressed format.
+	
+	
+2.	Class Structure:
+
+	a. A class contains fields and methods.
+		
+		- Class Fields are the variables - define the state of a class
+		- Methods - define the action (Verbs) of the class.
+		
+	b.	Variables:
+		
+		-	Variable defined with a class is called Field or Class
+				variable.
+		- 	Variables can be placed anywhere within the class.
+		- 	Can be placed before and after the constructor or methods.
+				must be within the class open and closed braces.
+				
+				eg.
+				
+				public class Demo {
+					int a; 		//defined before class method			
+					public void setA(int b){
+					}
+					int b;		//defined after class method			
+				}
+	
+	c.	Methods:
+		
+		-	Where logic are implementes (Change states of variable)
+		-	Define the behavior of an object.
+		-	Method signature is defined by it's name and parameter type.
+				
+				eg.     myMethod(int)
+				
+	d. Main Method (main()):
+	
+		-	Special method that serves as an application entry point
+		-	Called by the JVM
+		-	Forms of the main method.
+		
+			a. public static void main(String []){}
+			- The main method takes a String array paramters
+			- The Array paramters can be used to pass paramters to your
+				application.
+				
+			- The public and static can be swapped
+				static public void main(String []args)
+				
+			- The String paramters can also be swapped.
+				static public void main(String args[])
+				
+			-The array paramters can also be Viable arguments with 3 dots
+				static public void main(String... args)
+				static public void main(String ... args)
+				static public void main(String...args)
+				
+				NOTE: Spaces are ignored by the compiler. But below form
+				wont compile.
+				static public void main(String args...)
+			
+	
+	
+	
+	
+	
+	
+	
+	
