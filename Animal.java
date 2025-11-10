@@ -23,8 +23,9 @@ class Animal {
 		name = newName;
 	}
 	
-}
-
-class Animal2 {
+	public static void main(final String... args) {
+		
+		System.out.println("Not Again");
+	}
 	
 }
